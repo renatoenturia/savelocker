@@ -1,0 +1,5 @@
+/vendor/
+/database.sqlite
+/cookies*.txt
+.env
+.env.*

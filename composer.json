@@ -1,0 +1,17 @@
+{
+    "name": "renat/savelocker",
+    "description": "sistema SaverLocker",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\": "Core/",
+            "Renat\\Savelocker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "renatoenturia"
+        }
+    ],
+    "require": {}
+}
